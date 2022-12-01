@@ -1,0 +1,60 @@
+ <meta property="og:title" content="Mobile App Development Company | App Development Services">
+    <meta property="og:site_name" content="mTraction Enterprise">
+    <meta property="og:url" content="https://enterprise.affle.com/mobile-app-development">
+    <meta property="og:description" content="We offer innovative mobile app development services with high-performing, secure, and scalable app solutions to help you maximize ROI.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://enterprise.affle.com/images/all_images/mtraction_enterprise_logo.svg">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Mobile App Development Company | App Development Services">
+    <meta name="twitter:site" content="@mTraction_ENTP">
+    <meta name="twitter:description" content="We offer innovative mobile app development services with high-performing, secure, and scalable app solutions to help you maximize ROI.">
+    <meta name="twitter:image:alt" content="mTraction Enterprise">
+    <meta name="twitter:image" content="https://enterprise.affle.com/images/all_images/mtraction_enterprise_logo.svg">
+
+    <meta name="csrf-token" content="MuCYoBxJXWVx2NoCbe4wcyJD6g6bKqhORlFpvU9H">
+
+    <meta name="description" content="We offer innovative mobile app development services with high-performing, secure, and scalable app solutions to help you maximize ROI." />
+    <meta name="keywords" content="mTraction enterprise" />
+
+    <meta name="google-site-verification" content="9MaE-MBRHUA5Nx8zAsjfYH-xQz6nTCgMt7rCMACJZYs" />
+
+    <title>Mobile App Development Company | App Development Services</title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://enterprise.affle.com/images/all_images/favicon-ico.ico" />
+    <link href="https://enterprise.affle.com/css/googlefonts.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" />
+    <script id="cookieyes" type="text/javascript" src="https://enterprise.affle.com/js/b8a4e8d7d39b70be3a9ceee6.min.js" async></script>
+        <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PLNL9XN');
+    </script>
+
+    <script type="text/javascript">
+        (function(c, l, a, r, i, t, y) {
+            c[a] = c[a] || function() {
+                (c[a].q = c[a].q || []).push(arguments)
+            };
+            t = l.createElement(r);
+            t.async = 1;
+            t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0];
+            y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "bamahka6sk");
+    </script>
+        <!-- End Google Tag Manager -->
+            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    
